@@ -12,7 +12,7 @@ load_dotenv()
 hf_token = os.getenv("HF_TOKEN")
 
 # Chọn file test 
-test_file = sys.argv[1] if len(sys.argv) > 1 else "test6.txt"
+test_file = sys.argv[1] if len(sys.argv) > 1 else "chunks_test/test6.txt"
 query_chunk, chunks = read_test_file(test_file)
 
 def average_pool(last_hidden_states: Tensor,
