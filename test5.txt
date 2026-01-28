@@ -1,0 +1,11 @@
+query_chunk = "Hướng dẫn các bước để thành lập một công ty trách nhiệm hữu hạn có hai thành viên trở lên tại Sở Kế hoạch và Đầu tư."
+
+chunks = [
+    "Quy trình đăng ký thành lập doanh nghiệp đối với loại hình công ty TNHH hai thành viên trở lên qua mạng thông tin điện tử tại cơ quan đăng ký kinh doanh.",
+    "Hộ kinh doanh cá thể do một cá nhân hoặc một nhóm người là công dân Việt Nam làm chủ, đăng ký kinh doanh tại Ủy ban nhân dân cấp huyện.",
+    "Công ty cổ phần là doanh nghiệp trong đó vốn điều lệ được chia thành các phần bằng nhau gọi là cổ phần và có tối thiểu ba cổ đông sáng lập.",
+    "Thủ tục thay đổi người đại diện theo pháp luật của công ty TNHH bao gồm thông báo thay đổi, nghị quyết của hội đồng thành viên và bản sao định danh.",
+    "Sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp, công ty phải thực hiện công bố nội dung đăng ký trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.",
+    "Doanh nghiệp có quyền tạm ngừng kinh doanh nhưng phải thông báo bằng văn bản cho Cơ quan đăng ký kinh doanh chậm nhất là 03 ngày làm việc trước ngày tạm ngừng.",
+    "Hồ sơ giải thể doanh nghiệp bao gồm quyết định giải thể, danh sách chủ nợ và phương án giải quyết các nghĩa vụ tài chính còn tồn đọng."
+]

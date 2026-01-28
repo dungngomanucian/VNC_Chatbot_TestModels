@@ -1,0 +1,11 @@
+query_chunk = "Điều kiện về thời gian đóng bảo hiểm xã hội tối thiểu để lao động nữ được hưởng chế độ thai sản khi sinh con theo quy định hiện hành."
+
+chunks = [
+    "Lao động nữ sinh con phải đóng bảo hiểm xã hội từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con thì mới đủ điều kiện hưởng chế độ thai sản.",
+    "Mức hưởng chế độ thai sản của lao động nữ bằng 100% mức bình quân tiền lương tháng đóng bảo hiểm xã hội của 06 tháng trước khi nghỉ việc hưởng chế độ.",
+    "Hồ sơ hưởng chế độ thai sản đối với lao động nữ đang đóng BHXH bao gồm bản sao giấy khai sinh hoặc bản sao giấy chứng sinh của con và danh sách từ người sử dụng lao động.",
+    "Trong thời gian nghỉ việc hưởng chế độ thai sản, người lao động không phải đóng bảo hiểm xã hội nhưng vẫn được tính là thời gian có đóng bảo hiểm xã hội.",
+    "Lao động nam đang đóng bảo hiểm xã hội khi vợ sinh con cũng được nghỉ việc hưởng chế độ thai sản từ 05 đến 15 ngày làm việc tùy từng trường hợp.",
+    "Thời gian hưởng chế độ khi sẩy thai, nạo, hút thai, thai chết lưu hoặc phá thai bệnh lý được thực hiện theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+    "Trường hợp chỉ có cha đóng bảo hiểm xã hội mà mẹ không đóng thì cha được hưởng trợ cấp một lần bằng 02 lần mức lương cơ sở tại tháng sinh con."
+]

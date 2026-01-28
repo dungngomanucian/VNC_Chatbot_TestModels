@@ -1,0 +1,11 @@
+query_chunk = "Tôi vừa sáng tác một loạt các bức họa kỹ thuật số và muốn thực hiện thủ tục để bảo vệ quyền lợi cá nhân, tránh việc các bên khác tự ý sao chép tác phẩm nghệ thuật này."
+
+chunks = [
+    "Quyền tác giả là quyền của tổ chức, cá nhân đối với tác phẩm do mình sáng tạo ra hoặc sở hữu, bao gồm các loại hình như tác phẩm văn học, nghệ thuật, bài giảng, tác phẩm đồ họa.",
+    "Nhãn hiệu là dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các tổ chức, cá nhân khác nhau và được bảo hộ dưới hình thức Giấy chứng nhận đăng ký nhãn hiệu do Cục Sở hữu trí tuệ cấp.",
+    "Việc đăng ký quyền tác giả không phải là thủ tục bắt buộc để được hưởng quyền, nhưng là căn cứ để chứng minh quyền sở hữu khi có tranh chấp xảy ra đối với tác phẩm.",
+    "Bằng sáng chế hay Bằng độc quyền giải pháp hữu ích được cấp cho các phát minh có tính mới, trình độ sáng tạo và khả năng áp dụng công nghiệp trong một thời hạn nhất định.",
+    "Hành vi xâm phạm quyền sở hữu trí tuệ có thể bị xử lý bằng biện pháp dân sự, hành chính hoặc hình sự tùy theo tính chất và mức độ nghiêm trọng của hành vi vi phạm.",
+    "Tác phẩm phái sinh là tác phẩm dịch từ ngôn ngữ này sang ngôn ngữ khác, tác phẩm phóng tác, cải biên, chuyển thể, biên soạn, chú giải, tuyển chọn từ tác phẩm gốc.",
+    "Kiểu dáng công nghiệp là hình dáng bên ngoài của sản phẩm được thể hiện bằng hình khối, đường nét, màu sắc hoặc sự kết hợp những yếu tố này mang tính mới đối với thế giới."
+]

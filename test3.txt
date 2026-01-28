@@ -1,0 +1,11 @@
+query_chunk = "Tôi cần làm phiếu lý lịch tư pháp để bổ sung hồ sơ xin việc tại một công ty tư nhân trong nước, yêu cầu ghi rõ các án tích đã được xóa."
+
+chunks = [
+    "Phiếu lý lịch tư pháp số 1 được cấp cho cá nhân, cơ quan, tổ chức để phục vụ công tác quản lý nhân sự, hoạt động đăng ký kinh doanh và xin việc làm.",
+    "Phiếu lý lịch tư pháp số 2 được cấp cho cơ quan tiến hành tố tụng và theo yêu cầu của cá nhân để người đó biết được nội dung lý lịch tư pháp của mình, bao gồm cả án tích đã được xóa.",
+    "Thủ tục cấp Phiếu lý lịch tư pháp trực tuyến qua ứng dụng VNeID giúp người dân tiết kiệm thời gian, kết quả sẽ được trả về bản điện tử hoặc bản giấy qua bưu điện.",
+    "Trường hợp công dân nộp hồ sơ xin cấp Phiếu lý lịch tư pháp tại Sở Tư pháp cần chuẩn bị tờ khai mẫu, bản sao căn cước công dân và nộp lệ phí theo quy định.",
+    "Thông tin lý lịch tư pháp bao gồm các nội dung về án tích, tình trạng thi hành án và các quyết định của Tòa án liên quan đến quyền đảm nhiệm chức vụ của cá nhân.",
+    "Cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp có nhiệm vụ cập nhật, xử lý thông tin về án tích từ các bản án, quyết định hình sự của Tòa án đã có hiệu lực pháp luật.",
+    "Người nước ngoài đã hoặc đang cư trú tại Việt Nam có quyền yêu cầu cấp Phiếu lý lịch tư pháp để xác nhận tình trạng tiền án tiền sự trong thời gian tạm trú."
+]

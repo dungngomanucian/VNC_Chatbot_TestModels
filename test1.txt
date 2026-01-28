@@ -1,0 +1,11 @@
+query_chunk = "Quy trình và các giấy tờ cần thiết để làm hộ chiếu phổ thông lần đầu cho người dân có căn cước công dân gắn chíp."
+
+chunks = [
+    "Để làm hộ chiếu phổ thông, công dân cần chuẩn bị tờ khai theo mẫu, ảnh chân dung 4x6 và căn cước công dân còn giá trị sử dụng để đối chiếu tại cơ quan quản lý xuất nhập cảnh.",
+    "Cách làm món phở bò truyền thống tại nhà cần chuẩn bị xương ống, thịt bò tươi, quế, hồi và các loại gia vị đặc trưng để tạo nên nước dùng đậm đà.",
+    "Đội tuyển bóng đá quốc gia đã có một trận đấu đầy kịch tính vào tối qua, giành chiến thắng sát nút trước đối thủ nhờ bàn thắng ở những phút cuối cùng.",
+    "Thủ tục cấp hộ chiếu trực tuyến mức độ 4 cho phép người dân nộp hồ sơ qua cổng dịch vụ công bộ công an và nhận kết quả tại nhà qua đường bưu điện.",
+    "Điện thoại thông minh mới ra mắt có màn hình tần số quét 120Hz, chip xử lý mạnh mẽ và khả năng sạc nhanh giúp người dùng trải nghiệm mượt mà hơn.",
+    "Thời tiết khu vực miền Bắc trong những ngày tới dự báo sẽ có mưa rào và dông rải rác, nhiệt độ giảm nhẹ từ 2 đến 3 độ C so với tuần trước.",
+    "Lợi ích của việc chạy bộ mỗi buổi sáng bao gồm tăng cường sức khỏe tim mạch, giảm căng thẳng và giúp duy trì vóc dáng cân đối."
+]

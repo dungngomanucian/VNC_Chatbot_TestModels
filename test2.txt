@@ -1,0 +1,11 @@
+query_chunk = "Hướng dẫn thủ tục đăng ký kết hôn tại Ủy ban nhân dân xã cho cặp đôi là người Việt Nam cư trú trong nước."
+
+chunks = [
+    "Khi đi đăng ký kết hôn, hai bên nam nữ phải cùng có mặt, xuất trình căn cước công dân và giấy xác nhận tình trạng hôn nhân do cơ quan có thẩm quyền cấp.",
+    "Giá vàng trong phiên giao dịch sáng nay tiếp tục biến động mạnh do ảnh hưởng từ tình hình kinh tế thế giới và tâm lý thận trọng của các nhà đầu tư.",
+    "Top 10 địa điểm du lịch không thể bỏ qua khi đến Đà Lạt vào mùa đông, bao gồm các vườn hoa cẩm tú cầu và những quán cà phê có view thung lũng.",
+    "Việc đăng ký kết hôn được thực hiện tại Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên nam nữ để cán bộ tư pháp hộ tịch ghi vào sổ.",
+    "Ngôn ngữ lập trình Java vẫn giữ vững vị thế trong phát triển ứng dụng doanh nghiệp nhờ tính bảo mật cao và khả năng mở rộng hệ thống tốt.",
+    "Mẹo để ngủ ngon hơn mỗi đêm bao gồm việc hạn chế sử dụng thiết bị điện tử trước khi ngủ và tạo không gian phòng ngủ tối, yên tĩnh.",
+    "Thị trường chứng khoán ghi nhận sự tăng trưởng kỷ lục của nhóm cổ phiếu ngành ngân hàng và bất động sản trong quý vừa qua."
+]
